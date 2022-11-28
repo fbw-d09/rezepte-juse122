@@ -19,7 +19,7 @@
 
 ## Zubereitung
 
-##### Benötigte Küchenutensilien:
+#### Benötigte Küchenutensilien:
 Pfanne (beschichtet), Rührschüssel, Handrührgerät, Pfannenwender, ggf. Schöpfkelle
 <br>
 <br>
@@ -69,9 +69,8 @@ Pfanne (beschichtet), Rührschüssel, Handrührgerät, Pfannenwender, ggf. Schö
 
 ## Zubereitung
 
-##### Benötigte Küchenutensilien:
+#### Benötigte Küchenutensilien:
 Handrührgerät, Teigrolle, Rührschüssel, Teigrad
-
 <br>
 <br>
 
