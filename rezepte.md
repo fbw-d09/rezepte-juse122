@@ -15,14 +15,13 @@
 | 1 Schuss | Mineralwasser |
 | | Butter oder Öl zum Backen |
 | nach Belieben | Zucker & Zimt, Apfelmus, Nutella, usw.
-
-<br>
 <br>
 
 ## Zubereitung
 
 #### Benötigte Küchenutensilien:
 Pfanne (beschichtet), Rührschüssel, Handrührgerät, Pfannenwender, ggf. Schöpfkelle
+<br>
 <br>
 
 | Zubereitungszeit | Dauer |
