@@ -16,12 +16,14 @@
 | | Butter oder Öl zum Backen |
 | nach Belieben | Zucker & Zimt, Apfelmus, Nutella, usw.
 
----
+<br>
+<br>
 
 ## Zubereitung
 
-##### Benötigte Küchenutensilien:
+#### Benötigte Küchenutensilien:
 Pfanne (beschichtet), Rührschüssel, Handrührgerät, Pfannenwender, ggf. Schöpfkelle
+<br>
 
 | Zubereitungszeit | Dauer |
 |-|-|
@@ -29,6 +31,7 @@ Pfanne (beschichtet), Rührschüssel, Handrührgerät, Pfannenwender, ggf. Schö
 | Ruhezeit | 30 min |
 | Backzeit | 10 min |
 | Gesamtzeit | 45 min |
+<br>
 
 - Mehl, Milch, Eier und Salz mit dem Handrührgerät zu einem glatten Teig verrühren, bis dieser Blasen wirft. Den Teig anschließend ca. 30 Minuten im Kühlschrank ruhen lassen.
 - Den Teig aus dem Kühlschrank nehmen, einen guten Schuss Mineralwasser hinzufügen und nochmals rühren.
