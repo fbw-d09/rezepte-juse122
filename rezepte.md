@@ -1,6 +1,6 @@
 #  [Rezept #1](https://www.chefkoch.de/rezepte/1208161226570428/Der-perfekte-Pfannkuchen-gelingt-einfach-immer.html "Rezept #1"): Lieblingsrezept
 
-## Eierkuchen
+## Eierkuchen :pancakes:
 
 ![Ein sehr ästhetisches Eierkuchenbild](eierkuchen.png)
 
@@ -45,7 +45,7 @@ Pfanne (beschichtet), Rührschüssel, Handrührgerät, Pfannenwender, ggf. Schö
 
 # [Rezept #2](https://www.chefkoch.de/rezepte/416391132046424/Maultaschen.html "Rezept #2"): Rezept aus Baden-Württemberg
 
-## Schwäbische Maultaschen
+## Schwäbische Maultaschen :dumpling:
 
 ![Ein sehr ästhetisches Maultaschenbild](maultaschen.jpg)
 
