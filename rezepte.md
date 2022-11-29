@@ -2,7 +2,7 @@
 
 ## Eierkuchen :pancakes:
 
-![Ein sehr ästhetisches Eierkuchenbild](eierkuchen.png)
+<img src="eierkuchen.png" alt="Ein sehr ästhetisches Eierkuchenbild" width=800px>
 
 ## Zutaten (4 Portionen)
 
