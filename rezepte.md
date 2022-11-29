@@ -1,4 +1,4 @@
-# Rezept #1: Lieblingsrezept
+#  [Rezept #1](https://www.chefkoch.de/rezepte/1208161226570428/Der-perfekte-Pfannkuchen-gelingt-einfach-immer.html "Rezept #1"): Lieblingsrezept
 
 ## Eierkuchen
 
@@ -43,7 +43,7 @@ Pfanne (beschichtet), Rührschüssel, Handrührgerät, Pfannenwender, ggf. Schö
 
 ---
 
-# Rezept #2: Rezept aus Baden-Württemberg
+# [Rezept #2](https://www.chefkoch.de/rezepte/416391132046424/Maultaschen.html "Rezept #2"): Rezept aus Baden-Württemberg
 
 ## Schwäbische Maultaschen
 
